@@ -1,6 +1,4 @@
-"""
-The code descripation 
-"""
+
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
