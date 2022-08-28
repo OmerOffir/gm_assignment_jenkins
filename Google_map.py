@@ -1,4 +1,7 @@
-
+"""
+The script search for locaion in google maps and and save the url,screen-shots and zoom-in zoom-out screen-shot. I've uesed selenium tool for 
+this task. 
+"""
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
